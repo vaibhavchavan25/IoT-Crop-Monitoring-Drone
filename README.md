@@ -1,7 +1,6 @@
 # IoT Based Crop Monitoring Drone Using Mobile App
 
 [🔗 **View Published Paper (IJIREEICE, April 2025)**](https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/)  
-📄 Downloads: PDF | DOI: 10.17148/IJIREEICE.2025.13498
 
 ---
 
