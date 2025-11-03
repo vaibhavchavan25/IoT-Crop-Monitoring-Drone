@@ -1,6 +1,7 @@
- IoT Based Crop Monitoring Drone Using Mobile App
+# IoT Based Crop Monitoring Drone Using Mobile App
 
-[🔗 **View Published Paper (IJIREEICE, April 2025)**](https://doi.org/10.17148/IJIREEICE.2025.13498)
+[🔗 **View Published Paper (IJIREEICE, April 2025)**](https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/)  
+📄 **DOI:** [10.17148/IJIREEICE.2025.13498](https://doi.org/10.17148/IJIREEICE.2025.13498)
 
 ---
 
@@ -88,6 +89,7 @@ By automating data collection and visualization through drones and a mobile app,
 **Title:** *IoT Based Crop Monitoring Drone Using Mobile App*  
 **Journal:** *International Journal of Innovative Research in Electrical, Electronics, Instrumentation & Control Engineering (IJIREEICE)*  
 **Volume:** 13 | **Issue:** 4 | **Month/Year:** April 2025  
+**Paper Link:** [https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/](https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/)  
 **DOI:** [10.17148/IJIREEICE.2025.13498](https://doi.org/10.17148/IJIREEICE.2025.13498)  
 **Certificate ID:** IJIREEICE/2025/1  
 **Impact Factor:** 8.021  
@@ -119,3 +121,4 @@ We also extend gratitude to **Dr. J. J. Magdum College of Engineering, Jaysingpu
 **Author:** Vaibhav Shrikant Chavan  
 **Email:** [chavanvaibhav0009@gmail.com](mailto:chavanvaibhav0009@gmail.com)  
 **Repository:** *IoT-Based-Crop-Monitoring-Drone-Using-Mobile-App*
+
