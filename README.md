@@ -1,85 +1,94 @@
 # IoT Based Crop Monitoring Drone Using Mobile App
 
-[🔗 **View Published Paper (IJIREEICE, April 2025)**](https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/)  
+[🔗 **View Published Paper (IJIREEICE, April 2025)**](https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/)
+
+---
+
+> **A published research project demonstrating an IoT-based drone system for real-time crop monitoring and precision agriculture using embedded systems, sensors, and a custom mobile app.**
+
+---
+
+## 🧭 Project Overview
+This project presents an **IoT-enabled drone** integrated with a **mobile application** to assist farmers in monitoring agricultural conditions remotely.  
+The system collects environmental parameters such as **temperature, humidity, and soil moisture**, transmitting them in real-time to a mobile interface via IoT connectivity.  
+By combining **embedded system design**, **wireless communication**, and **data visualization**, this solution provides an affordable and scalable approach to smart farming.
 
 ---
 
 ## 📘 Project Metadata
-- **Domain:** Embedded Systems, IoT, Smart Agriculture  
-- **Type:** Final Year Engineering Project (Published Research Work)  
-- **Programming Language:** Embedded C  
-- **Hardware:** Arduino UNO / ESP32, Sensors, Drone Frame  
-- **Software Tools:** Arduino IDE, MIT App Inventor, Firebase  
-- **Publication:** IJIREEICE, Vol. 13, Issue 4, April 2025  
-  
+| Field | Details |
+|-------|----------|
+| **Domain** | Embedded Systems, IoT, Smart Agriculture |
+| **Project Type** | Final Year Engineering Project (Published Research Work) |
+| **Programming Language** | Embedded C |
+| **Hardware** | Arduino UNO / ESP32, Sensors, Drone Frame |
+| **Software Tools** | Arduino IDE, MIT App Inventor, Firebase |
+| **Publication** | IJIREEICE, Vol. 13, Issue 4, April 2025 |
+
 ---
 
 ## 🏫 Institution & Team
 **Department of Electronics & Telecommunication Engineering**  
 **Dr. J. J. Magdum College of Engineering, Jaysingpur**
 
-### Project Guide
-**Prof. M. U. Phutane**
+**Project Guide:** Prof. M. U. Phutane  
 
-### Project Team
-- **Kaushalya Dadaso Jadhav (Roll No. 28)**  
-- **Shubham Nagoji Kasalkar (Roll No. 29)**  
-- **Vaibhav Shrikant Chavan (Roll No. 30)**  
+**Team Members:**  
+- Kaushalya Dadaso Jadhav (Roll No. 28)  
+- Shubham Nagoji Kasalkar (Roll No. 29)  
+- Vaibhav Shrikant Chavan (Roll No. 30)  
 
 📧 *Contact:* [chavanvaibhav0009@gmail.com](mailto:chavanvaibhav0009@gmail.com)
 
 ---
 
 ## 🧩 Abstract
-This project presents an **IoT-based crop monitoring drone** integrated with a mobile application for real-time agricultural observation.  
-The system provides a cost-effective and efficient way for farmers to monitor crop health, environmental conditions, and soil parameters through a wireless drone platform.  
-The drone collects sensor data (temperature, humidity, and soil moisture) and aerial images, transmitting them via IoT to a mobile app interface for data visualization and decision-making.  
+Agricultural monitoring is a critical challenge for large-scale farms, where environmental variation directly affects productivity.  
+This project develops an **IoT-based crop monitoring drone** equipped with environmental sensors and wireless communication modules.  
+The drone transmits live sensor readings and aerial imagery to a **mobile application**, enabling farmers to make data-driven decisions regarding irrigation, pest control, and crop health.
 
 ---
 
 ## 🎯 Objectives
-1. To design and fabricate a drone equipped with environmental sensors and IoT connectivity.  
-2. To capture real-time agricultural data and transmit it wirelessly to a user interface.  
-3. To integrate a mobile application for monitoring and analyzing live crop data.  
-4. To assist farmers in early identification of plant stress, irrigation needs, and pest risks.  
-5. To contribute toward the development of a sustainable smart agriculture model.  
+- Design and fabricate a drone integrated with IoT sensors.  
+- Capture and transmit real-time agricultural data wirelessly.  
+- Develop a mobile app for monitoring environmental parameters.  
+- Enhance decision-making for irrigation and crop management.  
+- Contribute to smart agriculture through embedded IoT systems.
 
 ---
 
 ## ⚙️ Methodology
-The system combines **embedded hardware**, **IoT communication**, and **mobile computing**.
-
-1. The drone collects real-time data using temperature, humidity, and soil sensors.  
-2. Data is transmitted through **Wi-Fi/Bluetooth modules** to a central IoT cloud platform.  
-3. The mobile app (developed using MIT App Inventor) visualizes live data and alerts.  
-4. Farmers can view aerial imagery and analyze crop conditions remotely.  
+1. **Data Acquisition:** Sensors (DHT11, soil moisture) mounted on the drone collect field data.  
+2. **Processing:** Microcontroller (ESP32) handles data and controls drone operation.  
+3. **Transmission:** Data sent wirelessly to IoT cloud or mobile application.  
+4. **Visualization:** Android app built using MIT App Inventor displays readings in real-time.  
+5. **Decision Support:** Farmers use insights to plan irrigation or identify crop stress.
 
 ### System Flow
 
 ---
 
 ## 🛰️ System Overview
-- **Hardware Modules:** Sensors (DHT11, Soil Moisture), GPS, Motor Driver, Flight Controller  
-- **Software Stack:** Arduino IDE, Blynk/Firebase, MIT App Inventor  
-- **Communication:** IoT-based wireless data transmission  
-- **Power Source:** Rechargeable Li-ion Battery  
-- **Output:** Real-time environmental readings and visual feedback via the app  
+- **Hardware Components:** ESP32/Arduino UNO, DHT11, Soil Moisture Sensor, GPS, Motor Driver  
+- **Software Stack:** Arduino IDE, MIT App Inventor, Firebase/Blynk  
+- **Connectivity:** Wi-Fi / Bluetooth for IoT communication  
+- **Power Supply:** Rechargeable Li-ion Battery  
+- **Output:** Real-time monitoring dashboard and field data logs
 
 ---
 
 ## 📊 Results & Discussion
-The drone successfully monitored:
-- **Temperature, humidity, and soil moisture** levels  
-- Captured **real-time aerial crop images**  
-- Transmitted live data to the **mobile interface**  
-
-This resulted in a **60% improvement in crop inspection efficiency** compared to manual observation.  
+- The drone effectively measured environmental parameters.  
+- Real-time data was transmitted to the mobile interface.  
+- Improved monitoring efficiency by ~60% compared to manual inspection.  
+- Enabled predictive decision-making and reduced human intervention.  
 
 ---
 
 ## 🧠 Conclusion
-The designed system demonstrates how embedded systems and IoT can significantly enhance agricultural monitoring efficiency.  
-By automating data collection and visualization through drones and a mobile app, this system offers a low-cost, scalable solution for smart farming and precision agriculture.  
+The proposed **IoT-based drone monitoring system** successfully integrates embedded hardware and IoT technologies to enhance agricultural practices.  
+This system demonstrates how low-cost drones can revolutionize data-driven farming and promote sustainability in agriculture.
 
 ---
 
@@ -87,7 +96,7 @@ By automating data collection and visualization through drones and a mobile app,
 **Title:** *IoT Based Crop Monitoring Drone Using Mobile App*  
 **Journal:** *International Journal of Innovative Research in Electrical, Electronics, Instrumentation & Control Engineering (IJIREEICE)*  
 **Volume:** 13 | **Issue:** 4 | **Month/Year:** April 2025  
-**Paper Link:** [https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/](https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/)    
+**Paper Link:** [https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/](https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/)  
 **Certificate ID:** IJIREEICE/2025/1  
 **Impact Factor:** 8.021  
 
@@ -105,17 +114,28 @@ By automating data collection and visualization through drones and a mobile app,
 > V. S. Chavan, S. N. Kasalkar, K. D. Jadhav, and M. U. Phutane,  
 > “IoT-Based Crop Monitoring Drone Using Mobile App,”  
 > *International Journal of Innovative Research in Electrical, Electronics, Instrumentation and Control Engineering (IJIREEICE)*,  
-> vol. 13, no. 4, pp. 48–53, Apr. 2025. DOI: 10.17148/IJIREEICE.2025.13498.  
+> vol. 13, no. 4, pp. 48–53, Apr. 2025.  
 
 ---
 
 ## 🙏 Acknowledgment
-We sincerely thank **Prof. M. U. Phutane** for valuable guidance and support throughout this project.  
-We also extend gratitude to **Dr. J. J. Magdum College of Engineering, Jaysingpur**, for providing laboratory and technical assistance.  
+We express our heartfelt gratitude to **Prof. M. U. Phutane** for valuable guidance and encouragement throughout this project.  
+We also thank **Dr. J. J. Magdum College of Engineering, Jaysingpur**, for providing laboratory facilities and technical support.
 
 ---
 
-**Author:** Vaibhav Shrikant Chavan  
-**Email:** [chavanvaibhav0009@gmail.com](mailto:chavanvaibhav0009@gmail.com)  
-**Repository:** *IoT-Based-Crop-Monitoring-Drone-Using-Mobile-App*
+## 👨‍💻 Author
+**Vaibhav Shrikant Chavan**  
+📧 [chavanvaibhav0009@gmail.com](mailto:chavanvaibhav0009@gmail.com)  
+📁 *Repository:* IoT-Based-Crop-Monitoring-Drone-Using-Mobile-App
+
+---
+
+## 🔖 Repository Description & Tags
+**Description:**  
+> IoT-enabled drone project for smart agriculture — published in IJIREEICE (Vol. 13, Issue 4, 2025). Demonstrates real-time crop monitoring using embedded systems, IoT sensors, and a mobile app interface.
+
+**Tags:**  
+`IoT` `Embedded Systems` `Drone` `Smart Agriculture` `Firebase` `ESP32` `Arduino`
+
 
