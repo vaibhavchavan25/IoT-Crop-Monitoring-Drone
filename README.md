@@ -11,8 +11,7 @@
 - **Hardware:** Arduino UNO / ESP32, Sensors, Drone Frame  
 - **Software Tools:** Arduino IDE, MIT App Inventor, Firebase  
 - **Publication:** IJIREEICE, Vol. 13, Issue 4, April 2025  
-- **DOI:** [10.17148/IJIREEICE.2025.13498](https://doi.org/10.17148/IJIREEICE.2025.13498)
-
+  
 ---
 
 ## 🏫 Institution & Team
@@ -88,8 +87,7 @@ By automating data collection and visualization through drones and a mobile app,
 **Title:** *IoT Based Crop Monitoring Drone Using Mobile App*  
 **Journal:** *International Journal of Innovative Research in Electrical, Electronics, Instrumentation & Control Engineering (IJIREEICE)*  
 **Volume:** 13 | **Issue:** 4 | **Month/Year:** April 2025  
-**Paper Link:** [https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/](https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/)  
-**DOI:** [10.17148/IJIREEICE.2025.13498](https://doi.org/10.17148/IJIREEICE.2025.13498)  
+**Paper Link:** [https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/](https://ijireeice.com/papers/iot-based-crop-monitoring-drone-using-mobile-app/)    
 **Certificate ID:** IJIREEICE/2025/1  
 **Impact Factor:** 8.021  
 
