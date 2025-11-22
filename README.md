@@ -22,7 +22,7 @@ By combining **embedded system design**, **wireless communication**, and **data 
 | **Project Type** | Final Year Engineering Project (Published Research Work) |
 | **Programming Language** | Embedded C |
 | **Hardware** | Arduino UNO / ESP32, Sensors, Drone Frame |
-| **Software Tools** | Arduino IDE, MIT App Inventor, Firebase |
+| **Software Tools** |Arduino IDE, Government Mobile App Integration, ThingSpeak IoT Platform |
 | **Publication** | IJIREEICE, Vol. 13, Issue 4, April 2025 |
 
 ---
