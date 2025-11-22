@@ -59,11 +59,12 @@ The drone transmits live sensor readings and aerial imagery to a **mobile applic
 ---
 
 ## ⚙️ Methodology
-1. **Data Acquisition:** Sensors (DHT11, soil moisture) mounted on the drone collect field data.  
-2. **Processing:** Microcontroller (ESP32) handles data and controls drone operation.  
-3. **Transmission:** Data sent wirelessly to IoT cloud or mobile application.  
-4. **Visualization:** Android app built using MIT App Inventor displays readings in real-time.  
-5. **Decision Support:** Farmers use insights to plan irrigation or identify crop stress.
+-Data Acquisition: Sensors (DHT11, soil moisture) collect environmental data.
+-Drone Operation: A camera mounted on the drone captures plant images during flight.
+-Processing: ESP32 handles data processing and camera control.
+-Transmission: Sensor data is sent to the government crop monitoring mobile app.
+-Image Handling: All captured images are automatically saved to the user’s mobile phone gallery.
+-Decision Support: Farmers use both visual images and sensor data for crop analysis.
 
 ### System Flow
 
